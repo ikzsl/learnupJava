@@ -1,8 +1,9 @@
 package com.company;
 
-public class Main {
+import static com.company.Lesson2.*;
 
+public class Main {
     public static void main(String[] args) {
-	System.out.println("abrakadabra");
+        triangle();
     }
 }
